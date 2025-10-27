@@ -5,8 +5,8 @@ const nextConfig = {
     unoptimized: true,
   },
   trailingSlash: true,
-  basePath: process.env.NODE_ENV === 'production' ? '/daichi-unity-portfolio' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/daichi-unity-portfolio' : ''
+  basePath: '/daichi-unity-portfolio',
+  assetPrefix: '/daichi-unity-portfolio'
 }
 
 module.exports = nextConfig
