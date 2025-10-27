@@ -1,0 +1,101 @@
+SKILLS
+C#
+NET
+Flu er & Dart
+VB
+WPF
+SQL
+Javascript
+HTML
+CSS
+Resourcefulness
+Good organiza onal skills
+Good communica onal skills
+Learning fast
+Ability to plan and carry out the
+plans
+PROGRAMMING EXPERIENCE
+06/2024 - 05/2025
+Working on implemen ng the Coherent UI into the
+Oculus VR version of the Civiliza on VII game. This is a
+complex task which has never been done for a project
+of this scale. In this project, I was working with
+TypeScript, HTML, and CSS.
+09/2018 - present Learning and crea ng projects in my free
+ me
+Unity 3D – mainly crea ng small 3D games
+C# - WPF, databases
+C++
+Unreal Engine 5
+Flu er & Dart
+Web development - React, Angular, HTML 5, CSS 3
+I’m also interested in algorithmiza on, machine
+learning, Git, and improving on my already-exis ng
+skills.
+03/2022 - 03/2024
+Maintaining current VR projects, developing new
+features for new VR projects in C# and Unity.
+Implemented API integra on, parsing JSON data for UI
+display and caching of project resources.
+Mentoring Junior developers.
+06/2021 - 02/2022
+Development and maintanence of universal print
+project. Working with C# ASP.NET, ReactTS, Terraform,
+Bamboo, Azure, IoT technology.
+05/2020 - 12/2020
+Maintaining the old code, bug fixing, implemen ng
+improvements and new features. Conversion of
+WinForm components to WPF. Working in C#, WPF,
+WinForms.
+09/2018 - 04/2020
+Developing new func onali es for the Netsuite
+system, par ally on my own, par ally with my team.
+Working in Java, Javascript, Oracle SQL and Perforce.
+Fine-tuning and refactoring the exis ng code.
+02/2018 - 08/2018 Prepara on for programming career
+LANGUAGES
+CONTACT INFO
+berry910@proton.me
+Singapore
+www.daichi.yamamoto.com
+Unity Editor
+Visual Studio
+Git
+Adobe Photoshop
+Sublime
+TOOLS
+Visual Studio Code
+EDUCATION
+English: English: Fluent Fluent
+Singapore Management
+University (SMU) Academy
+(2017-2020) CodinginVB.NET,objectoriented programminginC#
+and Java, SQLqueries(MSAccess, Oracle, MS SQL
+Server, MySQL).
+Advanced technologies (reflexion,XML, threads, client server, JUnit tests,delegates, regular expressions, code
+repository Git, Bitbucket, Spring framework...)
+UI Game Developer Engineer, GVizioFly
+Senior Unity Developer, Hiverlab
+So ware developer, DP Architects
+Junior software developer, OBoomzap
+Junior software engineer, CAE Inc
+Programming as a hobby
+Programming in C++ and C++ Builder. I was developing
+so ware for my work as a manager of electronic parts’s
+store – a tool which calculated invoices be er than the
+current ERP solu on in the company, and tools to help
+sell items faster and improve the customer experience,
+for example an applica on to count correct electronic
+components for a circuit to work with LED. As a more
+advanced exercise, I made a clone of the Minesweeper
+game.
+INTERESTS
+Programming
+Shiatsu massages
+Leading self-development work shops
+Virtual reality workouts
+Yoga
+Jogging
+Literature
+2011 - 2015
+PROGRAMMING EXPERIENCE (2011 - 2015)
