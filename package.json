@@ -8,8 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "predeploy": "npm run build && copy .nojekyll out\\",
-    "deploy": "gh-pages -d out -b gh-pages"
+    "predeploy": "npm run build",
+    "deploy": "echo > out\\.nojekyll && gh-pages -d out -b gh-pages --add"
   },
   "dependencies": {
     "framer-motion": "^10.16.16",
