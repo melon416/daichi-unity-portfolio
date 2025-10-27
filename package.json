@@ -2,6 +2,7 @@
   "name": "daichi-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://melon416.github.io/daichi-unity-portfolio/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

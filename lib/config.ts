@@ -14,9 +14,9 @@ export const config = {
   
   // Customizable assets
   assets: {
-    avatar: '/profile.png', // Update this path to your avatar image
-    resume: '/resume.pdf',
-    aboutImage: '/about.png', // Optional about section image
+    avatar: 'profile.png', // Update this path to your avatar image
+    resume: 'resume.pdf',
+    aboutImage: 'about.png', // Optional about section image
   },
   
   skills: {

@@ -4,7 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  trailingSlash: true
+  trailingSlash: true,
+  basePath: process.env.NODE_ENV === 'production' ? '/daichi-unity-portfolio' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/daichi-unity-portfolio' : ''
 }
 
 module.exports = nextConfig
