@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "echo > out\\.nojekyll && gh-pages -d out -b gh-pages --add"
+    "deploy": "node -e \"require('fs').writeFileSync('out/.nojekyll', '')\" && gh-pages -d out -b gh-pages"
   },
   "dependencies": {
     "framer-motion": "^10.16.16",
