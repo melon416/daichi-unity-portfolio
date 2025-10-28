@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   authors: [{ name: 'Daichi Yamamoto' }],
   viewport: 'width=device-width, initial-scale=1',
   icons: {
-    icon: '/favicon.svg',
+    icon: '/daichi-unity-portfolio/favicon.svg',
   },
 }
 
