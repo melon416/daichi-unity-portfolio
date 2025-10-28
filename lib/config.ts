@@ -14,9 +14,9 @@ export const config = {
   
   // Customizable assets
   assets: {
-    avatar: 'profile.png', // Update this path to your avatar image
-    resume: 'resume.pdf',
-    aboutImage: 'about.png', // Optional about section image
+    avatar: '/daichi-unity-portfolio/profile.png', // Update this path to your avatar image
+    resume: '/daichi-unity-portfolio/resume.pdf',
+    aboutImage: '/daichi-unity-portfolio/about.png', // Optional about section image
   },
   
   skills: {
@@ -154,7 +154,7 @@ export const config = {
       featured: true,
       github: 'https://github.com/petrzavodny/card-game-17',
       live: '#',
-      image: '/17cardgame.png',
+      image: '/daichi-unity-portfolio/17cardgame.png',
     },
     {
       title: 'Magic Forge',
@@ -164,7 +164,7 @@ export const config = {
       featured: true,
       github: 'https://github.com/petrzavodny/magic-forge',
       live: '#',
-      image: '/magic forge.png',
+      image: '/daichi-unity-portfolio/magic forge.png',
     },
     {
       title: 'Krogger',
@@ -174,7 +174,7 @@ export const config = {
       featured: true,
       github: 'https://github.com/petrzavodny/krogger',
       live: '#',
-      image: '/krogger.png',
+      image: '/daichi-unity-portfolio/krogger.png',
     },
     {
       title: 'Zenzag',
@@ -184,7 +184,7 @@ export const config = {
       featured: true,
       github: 'https://github.com/petrzavodny/zenzag',
       live: '#',
-      image: '/zenzag.png',
+      image: '/daichi-unity-portfolio/zenzag.png',
     },
     {
       title: 'DUUMBA RUUMBA',
@@ -194,7 +194,7 @@ export const config = {
       featured: false,
       github: 'https://github.com/petrzavodny/duumba-ruumba',
       live: null,
-      image: '/duumba ruumba.png',
+      image: '/daichi-unity-portfolio/duumba ruumba.png',
     },
     {
       title: 'Our Dying Rights',
@@ -204,7 +204,7 @@ export const config = {
       featured: false,
       github: 'https://github.com/petrzavodny/our-dying-rights',
       live: null,
-      image: '/dying rights.png',
+      image: '/daichi-unity-portfolio/dying rights.png',
     },
   ],
 }
